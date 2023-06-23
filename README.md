@@ -1,10 +1,10 @@
 <h1 align="center">Hola 👋, soy Pablo Moraga</h1>
 <h3 align="center">Entrando en el mundo de la informática</h3>
 
-![faff85af-2221-43b2-b818-685ab5fe62a3](https://github.com/Ketbome/Ketbome/assets/72164630/7c298ac1-5c92-4beb-8a0e-3879d4fec14a)
+<center> ![faff85af-2221-43b2-b818-685ab5fe62a3](https://github.com/Ketbome/Ketbome/assets/72164630/7c298ac1-5c92-4beb-8a0e-3879d4fec14a)</center>
 
-- 🔭 Actualmente en último año de la carrera de informática**
-- 🌱 Estoy constantemente aprendiendo**
+- 🔭 Actualmente en último año de la carrera de informática
+- 🌱 Estoy constantemente aprendiendo
 - 📫 Como llegar a mí **pablo.moraga@mail.udp.cl**
 
 <h3 align="left">Connect with me:</h3>
