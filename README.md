@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Pablo Moraga</h1>
 <h3 align="center">Entrando en el mundo de la informática</h3>
 
-<div align="center"> ![87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3](https://github.com/Ketbome/Ketbome/assets/72164630/eaa36ea9-a7c4-4be6-808b-c193d52ad4e9)
+<div align="center"> <img src="https://github.com/Ketbome/Ketbome/assets/72164630/eaa36ea9-a7c4-4be6-808b-c193d52ad4e9" width="200" />
  </div>
 
 - 🔭 Actualmente en último año de la carrera de informática
