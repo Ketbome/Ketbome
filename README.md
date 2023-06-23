@@ -8,7 +8,7 @@
 - 🌱 Estoy constantemente aprendiendo
 - 📫 Como llegar a mí **pablo.moraga@mail.udp.cl**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contactame:</h3>
 <p align="left">
 <a href="https://instagram.com/cato_pab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cato_pab" height="30" width="40" /></a>
 <a href="https://discord.gg/ketbome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ketbome" height="30" width="40" /></a>
