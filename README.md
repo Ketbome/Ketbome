@@ -7,6 +7,7 @@
 - 🔭 Actualmente en último año de la carrera de informática
 - 🌱 Estoy constantemente aprendiendo
 - 📫 Como llegar a mí **pablo.moraga@mail.udp.cl**
+- 👨‍💻 Avanzando de a poco un proyecto [Marvel-Page-Vue](https://ketbome.github.io/personajes)
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
