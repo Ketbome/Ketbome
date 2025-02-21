@@ -4,7 +4,7 @@
 <div align="center"> <a href="https://ketbome.github.io/Ditto-Bailando/"> <img src="https://raw.githubusercontent.com/Ketbome/Ditto-Bailando/main/img/ditto.gif" width="200" /> </a>
  </div>
 
-- 🔭 Actualmente en último año de la carrera de informática
+- 🔭 Egresado de Ingenieria Civil en Informatica y Telecomunicaciones
 - 🌱 Estoy constantemente aprendiendo
 - 📫 Como llegar a mí **pablo.moraga.san@gmail.com **
 
