@@ -11,7 +11,7 @@
 <div align="center">
   
 # 💫 Sobre mí:
-🔭 Actualmente trabajando en **Cocha** como Desarrollador Full Stack
+🔭 Actualmente trabajando en **Ripley** como Software Engineer
   
 🌱 Aprendiendo más sobre **Full-Stack** y mejorando mis skills en arquitectura de software
 
