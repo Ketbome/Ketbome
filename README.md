@@ -50,8 +50,11 @@ Gestión de proyectos de construcción con control de inventario y recursos
 👔 **Sistema de Gestión para Lavandería** - Next.js, React, PostgreSQL  
 Automatización completa de operaciones con seguimiento en tiempo real
 
-🎮 **Minecraft Server Manager** (⭐ 20+ estrellas) - Next.js, NestJS, Docker  
-Panel web open source para gestionar servidores de Minecraft
+🎮 **[Minepanel — Minecraft Server Manager](https://minepanel.ketbome.com/)** (⭐ 20+ estrellas) - Next.js, NestJS, Docker  
+Panel web open source para gestionar servidores de Minecraft Java y Bedrock con Docker · [Docs](https://minepanel.ketbome.com/) · [GitHub](https://github.com/Ketbome/minepanel)
+
+🧊 **[Hytalepanel — Hytale Server Manager](https://hytalepanel.ketbome.com/)** - Next.js, NestJS, Docker  
+Panel web para servidores dedicados de Hytale, mismo enfoque que Minepanel · [Docs](https://hytalepanel.ketbome.com/) · [GitHub](https://github.com/Ketbome/hytalepanel)
 
 🎨 **Landing Pages para Emprendimientos** - Astro, Tailwind  
 Sitios web estáticos optimizados para negocios locales
